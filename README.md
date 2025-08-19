@@ -51,6 +51,7 @@ All settings are located in a single, well-documented configuration file:
 You can edit this file to change thresholds, paths, and other advanced settings after installation.
 ```bash
 sudo nano /etc/xpr-monitor/config.conf
+```
 
 
 ## Usage
@@ -107,4 +108,5 @@ sudo systemctl daemon-reload
 ```
 
 ## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
